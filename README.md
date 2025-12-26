@@ -3,6 +3,8 @@ This project is an interactive City Waste Collection Dashboard built using Pytho
 
 # 📊 City Waste Collection Dashboard
 
+🔗 Live Project: [](https://huggingface.co/spaces/pratik-tudu/city-waste-analysi)
+
 An interactive data visualization dashboard built using **Python**, **Pandas**, **Matplotlib**, and **Gradio/Streamlit** that analyzes city waste collection data.  
 The application allows users to upload CSV files and instantly visualize waste patterns across different zones, areas, dates, and waste types.
 
